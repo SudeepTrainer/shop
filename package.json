@@ -15,7 +15,7 @@
     "generate-toc": "markdown-toc -i readme.md"
   },
   "author": "Sudeep",
-  "license": "MIT",
+  "license": "NA",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
